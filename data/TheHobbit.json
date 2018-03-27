@@ -1,0 +1,132 @@
+{
+    "song": [
+        {
+            "note": "a3",
+            "duration": "3"
+        },
+        {
+            "note": "c",
+            "duration": "8"
+        },
+        {
+            "note": "d",
+            "duration": "8"
+        },
+        {
+            "note": "e",
+            "duration": "16"
+        },
+        {
+            "note": "d",
+            "duration": "16"
+        },
+        {
+            "note": "c",
+            "duration": "8"
+        },
+        {
+            "note": "b3",
+            "duration": "8"
+        },
+        {
+            "note": "a3",
+            "duration": "3"
+        },
+        {
+            "note": "r",
+            "duration": "8"
+        },
+        {
+            "note": "e3",
+            "duration": "8"
+        },
+        {
+            "note": "g3",
+            "duration": "8"
+        },
+        {
+            "note": "a3",
+            "duration": "8"
+        },
+        {
+            "note": "b3",
+            "duration": "8"
+        },
+        {
+            "note": "b3",
+            "duration": "4"
+        },
+        {
+            "note": "r",
+            "duration": "8"
+        },
+        {
+            "note": "c",
+            "duration": "8"
+        },
+        {
+            "note": "d",
+            "duration": "8"
+        },
+        {
+            "note": "c",
+            "duration": "16"
+        },
+        {
+            "note": "b3",
+            "duration": "16"
+        },
+        {
+            "note": "a3",
+            "duration": "4"
+        },
+        {
+            "note": "a3",
+            "duration": "8"
+        },
+        {
+            "note": "r",
+            "duration": "8"
+        },
+        {
+            "note": "b3",
+            "duration": "8"
+        },
+        {
+            "note": "c",
+            "duration": "6"
+        },
+        {
+            "note": "b3",
+            "duration": "16"
+        },
+        {
+            "note": "e",
+            "duration": "3"
+        },
+        {
+            "note": "r",
+            "duration": "8"
+        },
+        {
+            "note": "b3",
+            "duration": "8"
+        },
+        {
+            "note": "c",
+            "duration": "6"
+        },
+        {
+            "note": "g3",
+            "duration": "16"
+        },
+        {
+            "note": "a3",
+            "duration": "3"
+        },
+        {
+            "note": "r",
+            "duration": "8"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "song": [
+        {
+            "note": "c",
+            "duration": "16"
+        },
+        {
+            "note": "d",
+            "duration": "16"
+        },
+        {
+            "note": "e",
+            "duration": "4"
+        },
+        {
+            "note": "g",
+            "duration": "4"
+        },
+        {
+            "note": "e",
+            "duration": "4"
+        },
+        {
+            "note": "e",
+            "duration": "8"
+        },
+        {
+            "note": "d",
+            "duration": "16"
+        },
+        {
+            "note": "e",
+            "duration": "16"
+        },
+        {
+            "note": "d",
+            "duration": "16"
+        },
+        {
+            "note": "c",
+            "duration": "2"
+        },
+        {
+            "note": "r",
+            "duration": "4"
+        },
+        {
+            "note": "e",
+            "duration": "8"
+        },
+        {
+            "note": "g",
+            "duration": "8"
+        },
+        {
+            "note": "a",
+            "duration": "3"
+        },
+        {
+            "note": "c5",
+            "duration": "8"
+        },
+        {
+            "note": "b",
+            "duration": "4"
+        },
+        {
+            "note": "g",
+            "duration": "4"
+        },
+        {
+            "note": "e",
+            "duration": "2"
+        },
+        {
+            "note": "d",
+            "duration": "4"
+        },
+        {
+            "note": "c",
+            "duration": "8"
+        },
+        {
+            "note": "d",
+            "duration": "8"
+        },
+        {
+            "note": "e",
+            "duration": "4"
+        },
+        {
+            "note": "g",
+            "duration": "4"
+        },
+        {
+            "note": "e",
+            "duration": "16"
+        },
+        {
+            "note": "d",
+            "duration": "6"
+        },
+        {
+            "note": "c",
+            "duration": "6"
+        },
+        {
+            "note": "d",
+            "duration": "16"
+        },
+        {
+            "note": "c",
+            "duration": "2"
+        },
+        {
+            "note": "r",
+            "duration": "4"
+        }
+    ]
+}
