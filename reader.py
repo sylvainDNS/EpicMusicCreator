@@ -31,7 +31,7 @@ def _file_to_words_ids(filename, word_to_id):
     return [word_to_id[word] for word in data if word in word_to_id]
 
 
-def raw_data(datapath):
+def load_data(datapath):
 
     train_path = os.path.join(datapath, "TheHobbit.json")
     valid_path = os.path.join(datapath, "InDreams.json")
@@ -42,4 +42,5 @@ def raw_data(datapath):
     valid_data = _file_to_words_ids(valid_path, word_to_id)
     test_data = _file_to_words_ids(test_path, word_to_id)
     vocabulary = len(word_to_id)
-    return train_data, valid_data, test_data, vocabulary
+    reversed_dictionary = dict(zip(word_to_id.values(), word_to_id.keys()))
+    return train_data, valid_data, test_data, vocabulary, reversed_dictionary
